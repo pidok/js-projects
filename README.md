@@ -1,4 +1,4 @@
 # js-projects
 All Js projects in one place - Master js from zero to hero
 
-Just started -> live site commint soon ✔
+Working on it -> live site 👉 https://leoanimesh.github.io/js-projects/
