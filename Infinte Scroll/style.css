@@ -1,0 +1,17 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Style Script', cursive;
+    text-align: center;
+    background-color:whitesmoke;
+}
+
+h1{
+    letter-spacing:2px;
+    margin: 25px auto;
+    font-size:40px;
+}

@@ -57,6 +57,7 @@ async function getQuotes() {
     }
 }
 
+
 // onload  
 getQuotes()
 
